@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="CodeMaxApi.RestAssured.ValidateGetRequest">
+        <methods>
+          <include name="class_start"/>
+          <include name="status_code_verify"/>
+          <include name="class_stop"/>
+          <include name="method_start"/>
+          <include name="stop"/>
+          <include name="status_message_verify"/>
+          <include name="print_message"/>
+        </methods>
+      </class> <!-- CodeMaxApi.RestAssured.ValidateGetRequest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4032" started-at="2020-10-18T20:02:34 IST" finished-at="2020-10-18T20:02:38 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4032" started-at="2020-10-18T20:02:34 IST" finished-at="2020-10-18T20:02:38 IST">
+      <class name="CodeMaxApi.RestAssured.ValidateGetRequest">
+        <test-method status="PASS" signature="class_start()[pri:0, instance:CodeMaxApi.RestAssured.ValidateGetRequest@49070868]" name="class_start" is-config="true" duration-ms="1118" started-at="2020-10-18T20:02:34 IST" finished-at="2020-10-18T20:02:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- class_start -->
+        <test-method status="PASS" signature="method_start()[pri:0, instance:CodeMaxApi.RestAssured.ValidateGetRequest@49070868]" name="method_start" is-config="true" duration-ms="1341" started-at="2020-10-18T20:02:35 IST" finished-at="2020-10-18T20:02:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method_start -->
+        <test-method status="PASS" signature="status_code_verify()[pri:1, instance:CodeMaxApi.RestAssured.ValidateGetRequest@49070868]" name="status_code_verify" duration-ms="127" started-at="2020-10-18T20:02:36 IST" finished-at="2020-10-18T20:02:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status_code_verify -->
+        <test-method status="PASS" signature="stop()[pri:0, instance:CodeMaxApi.RestAssured.ValidateGetRequest@49070868]" name="stop" is-config="true" duration-ms="0" started-at="2020-10-18T20:02:36 IST" finished-at="2020-10-18T20:02:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+        <test-method status="PASS" signature="method_start()[pri:0, instance:CodeMaxApi.RestAssured.ValidateGetRequest@49070868]" name="method_start" is-config="true" duration-ms="127" started-at="2020-10-18T20:02:36 IST" finished-at="2020-10-18T20:02:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method_start -->
+        <test-method status="PASS" signature="status_message_verify()[pri:2, instance:CodeMaxApi.RestAssured.ValidateGetRequest@49070868]" name="status_message_verify" duration-ms="550" started-at="2020-10-18T20:02:36 IST" finished-at="2020-10-18T20:02:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status_message_verify -->
+        <test-method status="PASS" signature="stop()[pri:0, instance:CodeMaxApi.RestAssured.ValidateGetRequest@49070868]" name="stop" is-config="true" duration-ms="0" started-at="2020-10-18T20:02:37 IST" finished-at="2020-10-18T20:02:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+        <test-method status="PASS" signature="method_start()[pri:0, instance:CodeMaxApi.RestAssured.ValidateGetRequest@49070868]" name="method_start" is-config="true" duration-ms="123" started-at="2020-10-18T20:02:37 IST" finished-at="2020-10-18T20:02:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method_start -->
+        <test-method status="PASS" signature="print_message()[pri:3, instance:CodeMaxApi.RestAssured.ValidateGetRequest@49070868]" name="print_message" duration-ms="339" started-at="2020-10-18T20:02:37 IST" depends-on-methods="CodeMaxApi.RestAssured.ValidateGetRequest.status_message_verify, CodeMaxApi.RestAssured.ValidateGetRequest.status_code_verify" finished-at="2020-10-18T20:02:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print_message -->
+        <test-method status="PASS" signature="stop()[pri:0, instance:CodeMaxApi.RestAssured.ValidateGetRequest@49070868]" name="stop" is-config="true" duration-ms="0" started-at="2020-10-18T20:02:37 IST" finished-at="2020-10-18T20:02:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+        <test-method status="PASS" signature="class_stop()[pri:0, instance:CodeMaxApi.RestAssured.ValidateGetRequest@49070868]" name="class_stop" is-config="true" duration-ms="274" started-at="2020-10-18T20:02:37 IST" finished-at="2020-10-18T20:02:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- class_stop -->
+      </class> <!-- CodeMaxApi.RestAssured.ValidateGetRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

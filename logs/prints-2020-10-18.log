@@ -1,0 +1,4 @@
+20:02:37.606 [main] DEBUG org.apache.http.wire -  << "[0x0][0x0]"
+20:02:37.609 [main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+20:02:37.622 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@d5556bf
+20:02:37.622 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Connection can be kept alive indefinitely
